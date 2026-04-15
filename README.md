@@ -1,2 +1,10 @@
-# Mobile-Sales-Dashboard-
-This project is an interactive Power BI dashboard built to analyze mobile sales performance. It provides insights into sales trends, revenue, customer behavior, and product performance.  The dashboard helps businesses make data-driven decisions by identifying top-performing products, regions, and time-based sales patterns.
+Mobile sales dashboard
+-- Dashboard Features
+KPI Cards (Total Sales, Revenue, Profit)
+Sales Trend (Line Chart)
+Top Brands & Models (Bar Chart)
+Region-wise Sales (Map / Pie Chart)
+Filters (Date, Brand, Region)
+Interactive Visuals
+
+-- Dataset Used
