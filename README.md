@@ -7,4 +7,14 @@ Region-wise Sales (Map / Pie Chart)
 Filters (Date, Brand, Region)
 Interactive Visuals
 
--- Dataset Used
+-- Key Insights
+Identified top-performing mobile brands
+Found peak sales months
+Highlighted high-revenue regions
+Compared product performance
+
+-- Tools & Technologies
+Power BI Desktop (.pbix)
+Data Modeling
+DAX (Data Analysis Expressions)
+Data Visualization
